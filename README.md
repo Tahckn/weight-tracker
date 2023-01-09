@@ -4,7 +4,7 @@ Weight Tracker app.
 
 Created with Vue.js, chart.js and Tauri for Windows app.
 
- [Website version](https://relyonrhythm.netlify.app/).
+ [Website version](https://weight-trackerr.netlify.app/).
 
 ## Screenshots
 ![app image](https://github.com/Tahckn/weight-tracker/blob/main/public/Weight_Tracker_nifOSLEhSl.png)
