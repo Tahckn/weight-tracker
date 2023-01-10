@@ -25,9 +25,7 @@ npm run tauri build - (for build windows app)
 ```
 ## Contributing
 
-Pull requests are welcome for Search and Library Page.
-
-Please make sure to update tests as appropriate.
+Pull requests are welcome.
 
 ## License
 
